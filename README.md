@@ -3,7 +3,7 @@
 - 🌱 I’m currently looking forward to pursue my Higher Degree and also learning full stack web development, and a python course on Udemy.
 - 💞️ I’m looking to collaborate with people with my kind of interest towards web development and python, would like to work on small beginner projects as well, If time permits.
 - 📫 How to reach me
-      Mail: sripath.cherukuri@gmail.com
+      mail: sripath.cherukuri@gmail.com
 
 <!---
 SripathCh/SripathCh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
