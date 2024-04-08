@@ -1,6 +1,5 @@
 <img align="center" alt="Coding" src="terminal.gif">
-### Hi 👋, I'm Sripath Cherukuri
-#### Data Analytics / Full-Stack Web Development
+
 I'm Sripath Cherukuri from India, currently pursuing a Master's in Computer Science at George Mason University, USA, with a focus on Data Analytics and Full-Stack Development. Skilled in Python and exploring SQL. I enjoy diving into new technologies and continuously expanding my technical toolkit.
 
 Tools: Git, Docker <br/> 
