@@ -1,6 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
-
-### Hi there 👋, My name is Sripath Cherukuri
+### Hi 👋, I'm Sripath Cherukuri
 #### Data Analytics / Full-Stack Web Development
 I'm Sripath Cherukuri from India, currently pursuing a Master's in Computer Science at George Mason University, USA, with a focus on Data Analytics and Full-Stack Development. Skilled in Python and exploring SQL. I enjoy diving into new technologies and continuously expanding my technical toolkit.
 
@@ -15,8 +13,5 @@ Web Technologies: RESTful APIs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sripathch&layout=compact)
 
 ![Sripath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sripathch&show_icons=true&theme=blue-green) 
-
-![GitHub metrics](https://metrics.lecoq.io/SripathCh)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SripathCh)  
+ 
 
