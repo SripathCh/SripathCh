@@ -10,7 +10,7 @@
 ### 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Data Analytics and Full-Stack Development**.
 - 👯 I’m looking to collaborate on **open-source projects and innovative tech solutions**.
-- 📫 How to reach me: **YourEmail@example.com**
+- 📫 How to reach me: **sripath.cherukuri@gmail.com**
 - ⚡ Fun fact: **I enjoy diving into new technologies and continuously expanding my technical toolkit.**
 
 ### 🚀 Languages and Tools:
@@ -41,12 +41,6 @@
 <p>
   <a href="https://linkedin.com/in/link-to-your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-### 📘 My Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title Here](Link to your blog post)
-- [Your Second Blog Post Title](Link to your second blog post)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
