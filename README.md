@@ -15,7 +15,7 @@
 
 ### 🚀 Languages and Tools:
 
-<p>
+<p Programming:>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -43,5 +43,3 @@
 </p>
 
 ---
-
-Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Happy coding!
