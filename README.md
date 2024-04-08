@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Sripath Cherukuri 👋</h1>
 <h3 align="center">A passionate Full-Stack Developer and Data Analytics enthusiast from India, currently pursuing a Master's in Computer Science at George Mason University, USA.</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/path/to/your/banner.png" alt="Banner">
-</p>
-
 ---
 
 ### 🙋‍♂️ About Me
@@ -45,13 +41,10 @@
 ### Frameworks and Libraries
 <table>
 <tr>
-  <td>React</td>
   <td><img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React"/></td>
-  <td>SpringBoot</td>
   <td><img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot"/></td>
 </tr>
 <tr>
-  <td>Flask</td>
   <td><img src="https://img.shields.io/badge/Flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></td>
 </tr>
 </table>
