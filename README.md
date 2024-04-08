@@ -13,7 +13,7 @@ Web Technologies: RESTful APIs
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SripathCh)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SripathCh)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sripathch&layout=compact)
 
 ![Sripath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sripathch&show_icons=true&theme=blue-green) 
 
