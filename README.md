@@ -28,11 +28,13 @@
 </p>
 
 <p>
+  <h4>Tools:</h4> 
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 <p>
+  <h4>Frameworks:</h4>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot"/>
   <img src="https://img.shields.io/badge/Flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
