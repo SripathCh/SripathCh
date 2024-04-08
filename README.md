@@ -15,7 +15,7 @@ Web Technologies: RESTful APIs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SripathCh)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SripathCh&show_icons=true&count_private=true)  
+![Sripath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sripathch&show_icons=true&theme=synthwave) 
 
 ![GitHub metrics](https://metrics.lecoq.io/SripathCh)  
 
