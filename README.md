@@ -1,13 +1,53 @@
-I'm Sripath Cherukuri from India, currently pursuing a Master's in Computer Science at George Mason University, USA, with a focus on Data Analytics and Full-Stack Development. Skilled in Python and exploring SQL. I enjoy diving into new technologies and continuously expanding my technical toolkit.
+<h1 align="center">Hi there, I'm Sripath Cherukuri 👋</h1>
+<h3 align="center">A passionate Full-Stack Developer and Data Analytics enthusiast from India, currently pursuing a Master's in Computer Science at George Mason University, USA.</h3>
 
-Tools: Git, Docker <br/> 
-Programming: Java, JavaScript, HTML, CSS, Python, SQL, C, C++ <br/>
-Frameworks & Libraries: React, SpringBoot, Flask <br/>
-Web Technologies: RESTful APIs
- 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/path/to/your/banner.png" alt="Banner">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sripathch&layout=compact)
+---
 
-![Sripath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sripathch&show_icons=true&theme=blue-green) 
- 
+### 🙋‍♂️ About Me
+- 🌱 I’m currently learning **Data Analytics and Full-Stack Development**.
+- 👯 I’m looking to collaborate on **open-source projects and innovative tech solutions**.
+- 📫 How to reach me: **YourEmail@example.com**
+- ⚡ Fun fact: **I enjoy diving into new technologies and continuously expanding my technical toolkit.**
 
+### 🚀 Languages and Tools:
+
+<p>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?&style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot"/>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+
+### 💼 Where to find me:
+<p>
+  <a href="https://linkedin.com/in/link-to-your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+### 📘 My Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Your Blog Post Title Here](Link to your blog post)
+- [Your Second Blog Post Title](Link to your second blog post)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Happy coding!
