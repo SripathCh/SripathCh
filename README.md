@@ -1,19 +1,23 @@
-<h1 align="center">Hi there, I'm Sripath Cherukuri 👋</h1>
-<h3 align="center">Computer Science graduate passionate about web development and data analytics, with expertise in Python, SQL, and innovative web solutions. I’m keen on roles that leverage my Python skills within dynamic teams that thrive on creativity and problem-solving to push technological boundaries and strategic innovations.</h3>
+# Hello, I'm Sripath Cherukuri 👋
 
----
+## Welcome to My GitHub!
 
-### 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Data Analytics and Full-Stack Development**.
-- 👯 I’m looking to collaborate on **open-source projects and innovative tech solutions**.
-- 📫 How to reach me: **sripath.cherukuri@gmail.com**
-- ⚡ Fun fact: **I enjoy diving into new technologies and continuously expanding my technical toolkit.**
+### About Me 🚀
+I'm a Computer Science graduate from George Mason University, deeply passionate about web development and data analytics. With a solid foundation in Python, SQL, and cutting-edge web technologies, I thrive in roles that challenge me to innovate and problem-solve within dynamic, creative teams. I'm currently sharpening my skills in Data Analytics and Full-Stack Development and am always eager to collaborate on open-source projects and groundbreaking tech solutions.
 
-### Programming Languages & Tools
-- Tools: Git, Docker
-- Programming: Java, JavaScript, HTML, CSS, Python, SQL, C, C++
-- Frameworks & Libraries: React, Node.js, SpringBoot, Flask
-- Web Technologies: RESTful APIs
-- Soft Skills: Teamwork, Good Communication, Critical Thinking, Analytical Writing, Soft Spoken
-- Strengths: Hard Work, Self Confidence, Team Building, Adaptability, Organizing Skills, Patience
+- 🌱 **Currently Learning:** Advanced Data Analytics and Full-Stack Development techniques.
+- 👯 **Looking to Collaborate:** Open to joining forces on open-source projects and innovative tech challenges.
+- 📫 **Reach Out to Me:** [sripath.cherukuri@gmail.com](mailto:sripath.cherukuri@gmail.com)
+- ⚡ **Fun Fact:** I'm fascinated by the continuous evolution of technology and am constantly exploring new tools to enhance my skill set.
 
+### Technical Skills 💻
+- **Languages:** Python, Java, C/C++, SQL (including PostgreSQL), HTML, CSS, JavaScript
+- **Frameworks & Libraries:** Spring Boot, React, Node.js, FastAPI
+- **Technologies & Tools:** Docker, Git, Jenkins, Apache Tomcat, RESTful APIs, Android Studio
+- **Cloud Platforms & Services:** AWS (EC2, RDS, S3), Kubernetes
+
+### Connect with Me 🌐
+- **GitHub:** You're here!
+- **LinkedIn:** www.linkedin.com/in/sripathcherukuri
+
+Let's innovate and build something amazing together!
