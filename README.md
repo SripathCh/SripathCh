@@ -17,7 +17,6 @@ I'm a Computer Science graduate from George Mason University, deeply passionate 
 - **Cloud Platforms & Services:** AWS (EC2, RDS, S3), Kubernetes
 
 ### Connect with Me 🌐
-- **GitHub:** You're here!
 - **LinkedIn:** www.linkedin.com/in/sripathcherukuri
 
 Let's innovate and build something amazing together!
