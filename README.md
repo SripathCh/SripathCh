@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Sripath Cherukuri 👋
 
 ## Welcome to My GitHub!
 
@@ -7,7 +7,7 @@ I'm a recent Computer Science graduate from George Mason University, passionate 
 
 - 🌱 Currently Learning: Advanced Full-Stack Development techniques and Cloud Computing.
 - 👯 Looking to Collaborate: Open to joining forces on open-source projects and innovative tech challenges.
-- 📫 Reach Out to Me: your.email@example.com
+- 📫 Reach Out to Me: sripath.cherukuri@gmail.com
 - ⚡ Fun Fact: I'm fascinated by the continuous evolution of technology and constantly exploring new tools to enhance my skills.
 
 ### Technical Skills 💻
