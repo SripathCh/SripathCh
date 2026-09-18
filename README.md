@@ -88,8 +88,12 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SripathCh&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SripathCh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SripathCh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SripathCh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 </div>
 
@@ -105,7 +109,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SripathCh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SripathCh&theme=tokyonight&no-frame=true&margin-w=4)
 
 </div>
 
