@@ -7,17 +7,18 @@
 </div>
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  > whoami                                                        ║
-║  sripath@universe:~$ AI Engineer & Full-Stack Developer          ║
-║                                                                  ║
-║  > cat about.txt                                                 ║
-║  ├── 🎓 CS @ George Mason University                             ║
-║  ├── 🤖 Building AI-powered apps & intelligent systems           ║
-║  ├── 🧠 LLMs · RAG · Computer Vision · ML Pipelines             ║
-║  ├── ☁️  AWS · Docker · Kubernetes · FastAPI                     ║
-║  └── 📬 sripath.cherukuri@gmail.com                             ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  > whoami                                                    ║
+║    sripath@universe  ->  AI Engineer + Full-Stack Developer  ║
+║                                                              ║
+║  > cat about.txt                                             ║
+║                                                              ║
+║  [+] George Mason University  |  CS Graduate                 ║
+║  [+] Building AI apps  |  LLMs  |  RAG  |  Computer Vision   ║
+║  [+] AWS  |  Docker  |  Kubernetes  |  FastAPI               ║
+║  [+] Open to AI / ML Engineer roles                          ║
+║  [+] sripath.cherukuri@gmail.com                             ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -127,14 +128,14 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════╗
-║  "The best way to predict the future     ║
-║   is to invent it." — Alan Kay           ║
-║                                          ║
-║  > Currently: seeking_next_mission()     ║
-║  > Status:    open_to_opportunities()    ║
-║  > Location:  available_remotely()       ║
-╚══════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  "The best way to predict the future is to invent it."       ║
+║                                              -- Alan Kay     ║
+║                                                              ║
+║  > Currently: seeking_next_mission()                         ║
+║  > Status:    open_to_opportunities()                        ║
+║  > Location:  available_remotely()                           ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 [![](https://visitcount.itsvg.in/api?id=SripathCh&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
