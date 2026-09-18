@@ -56,7 +56,27 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,sklearn,react,java,spring,nodejs,django,html,css,aws,docker,kubernetes,postgres,mongodb,git,jenkins,postman&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python" />
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow" />
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" title="OpenCV" />
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" />
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" title="Scikit-learn" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" /><br/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" />
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" title="Spring Boot" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS" /><br/>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" />
+<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" alt="Jenkins" title="Jenkins" />
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman" />
 
 </div>
 
