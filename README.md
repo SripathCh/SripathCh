@@ -88,8 +88,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SripathCh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SripathCh&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SripathCh&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SripathCh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
