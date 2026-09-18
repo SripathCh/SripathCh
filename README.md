@@ -84,16 +84,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Coding Activity
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SripathCh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SripathCh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></td>
-  </tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SripathCh&theme=tokyo-night&hide_border=true&area=true&area_color=7aa2f7&color=7aa2f7&line=bb9af7&point=ffffff" width="100%"/>
 
 </div>
 
@@ -105,11 +100,11 @@
 
 ---
 
-## 🏆 Achievements
+## 🛠️ Tools & Technologies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SripathCh&theme=tokyonight&no-frame=true&margin-w=4)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,kubernetes,aws,react,java,spring,nodejs,django,postgres,mongodb,git&theme=dark&perline=8" />
 
 </div>
 
