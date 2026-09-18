@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:003B00,70:00ff41,100:000000&height=220&section=header&text=SRIPATH%20CHERUKURI&fontSize=52&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Builder&descAlignY=58&descSize=17&descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b27,80:7aa2f7,100:bb9af7&height=220&section=header&text=SRIPATH%20CHERUKURI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Builder&descAlignY=58&descSize=17&descColor=7aa2f7" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Initializing+AI+systems...+%E2%9C%94;Building+intelligent+applications+%F0%9F%A7%A0;LLMs+%7C+Computer+Vision+%7C+RAG+Pipelines;Python+%7C+PyTorch+%7C+FastAPI+%7C+Cloud;Open+to+AI+%2F+ML+Engineer+roles+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=7AA2F7&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Initializing+AI+systems...+%E2%9C%94;Building+intelligent+applications+%F0%9F%A7%A0;LLMs+%7C+Computer+Vision+%7C+RAG+Pipelines;Python+%7C+PyTorch+%7C+FastAPI+%7C+Cloud;Open+to+AI+%2F+ML+Engineer+roles+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -26,9 +26,9 @@
 
 ## ⚡ Currently Seeking AI / ML Engineer Roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00ff41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/sripathcherukuri)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-00ff41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:sripath.cherukuri@gmail.com)
-[![X](https://img.shields.io/badge/X-Follow-00ff41?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d)](https://x.com/sripathch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/sripathcherukuri)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-bb9af7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:sripath.cherukuri@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow-7aa2f7?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27)](https://x.com/sripathch)
 
 </div>
 
@@ -55,46 +55,46 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-00ff41?style=for-the-badge&logo=python&logoColor=0d0d0d)
-![PyTorch](https://img.shields.io/badge/PyTorch-00ff41?style=for-the-badge&logo=pytorch&logoColor=0d0d0d)
-![OpenCV](https://img.shields.io/badge/OpenCV-00ff41?style=for-the-badge&logo=opencv&logoColor=0d0d0d)
-![FastAPI](https://img.shields.io/badge/FastAPI-00ff41?style=for-the-badge&logo=fastapi&logoColor=0d0d0d)
-![LangChain](https://img.shields.io/badge/LangChain-00ff41?style=for-the-badge&logo=chainlink&logoColor=0d0d0d)
-![NumPy](https://img.shields.io/badge/NumPy-00ff41?style=for-the-badge&logo=numpy&logoColor=0d0d0d)
-![Pandas](https://img.shields.io/badge/Pandas-00ff41?style=for-the-badge&logo=pandas&logoColor=0d0d0d)
+![Python](https://img.shields.io/badge/Python-7aa2f7?style=for-the-badge&logo=python&logoColor=0d1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-7aa2f7?style=for-the-badge&logo=pytorch&logoColor=0d1117)
+![OpenCV](https://img.shields.io/badge/OpenCV-7aa2f7?style=for-the-badge&logo=opencv&logoColor=0d1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-7aa2f7?style=for-the-badge&logo=fastapi&logoColor=0d1117)
+![LangChain](https://img.shields.io/badge/LangChain-7aa2f7?style=for-the-badge&logo=chainlink&logoColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-7aa2f7?style=for-the-badge&logo=numpy&logoColor=0d1117)
+![Pandas](https://img.shields.io/badge/Pandas-7aa2f7?style=for-the-badge&logo=pandas&logoColor=0d1117)
 
-![React](https://img.shields.io/badge/React-003B00?style=for-the-badge&logo=react&logoColor=00ff41)
-![Java](https://img.shields.io/badge/Java-003B00?style=for-the-badge&logo=openjdk&logoColor=00ff41)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-003B00?style=for-the-badge&logo=springboot&logoColor=00ff41)
-![Node.js](https://img.shields.io/badge/Node.js-003B00?style=for-the-badge&logo=nodedotjs&logoColor=00ff41)
-![Django](https://img.shields.io/badge/Django-003B00?style=for-the-badge&logo=django&logoColor=00ff41)
-![HTML5](https://img.shields.io/badge/HTML5-003B00?style=for-the-badge&logo=html5&logoColor=00ff41)
-![CSS3](https://img.shields.io/badge/CSS3-003B00?style=for-the-badge&logo=css3&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-bb9af7?style=for-the-badge&logo=react&logoColor=0d1117)
+![Java](https://img.shields.io/badge/Java-bb9af7?style=for-the-badge&logo=openjdk&logoColor=0d1117)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-bb9af7?style=for-the-badge&logo=springboot&logoColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-bb9af7?style=for-the-badge&logo=nodedotjs&logoColor=0d1117)
+![Django](https://img.shields.io/badge/Django-bb9af7?style=for-the-badge&logo=django&logoColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-bb9af7?style=for-the-badge&logo=html5&logoColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-bb9af7?style=for-the-badge&logo=css3&logoColor=0d1117)
 
-![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00ff41)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=00ff41)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=00ff41)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=00ff41)
-![Jenkins](https://img.shields.io/badge/Jenkins-0d0d0d?style=for-the-badge&logo=jenkins&logoColor=00ff41)
+![AWS](https://img.shields.io/badge/AWS-1a1b27?style=for-the-badge&logo=amazonaws&logoColor=7aa2f7)
+![Docker](https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=7aa2f7)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1b27?style=for-the-badge&logo=kubernetes&logoColor=7aa2f7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=bb9af7)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=bb9af7)
+![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=bb9af7)
+![Jenkins](https://img.shields.io/badge/Jenkins-1a1b27?style=for-the-badge&logo=jenkins&logoColor=7aa2f7)
 
 </div>
 
 ---
 
-## 📊 GitHub Matrix
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SripathCh&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=39ff14" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SripathCh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=39ff14" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SripathCh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SripathCh&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SripathCh&theme=matrix&hide_border=true&background=0D0D0D&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&dates=003B00" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=SripathCh&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
@@ -104,7 +104,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SripathCh&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SripathCh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
@@ -137,8 +137,8 @@
 ╚══════════════════════════════════════════╝
 ```
 
-[![](https://visitcount.itsvg.in/api?id=SripathCh&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SripathCh&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:003B00,70:00ff41,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,40:7aa2f7,80:1a1b27,100:0d1117&height=120&section=footer" width="100%"/>
