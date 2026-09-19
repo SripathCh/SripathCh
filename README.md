@@ -98,6 +98,26 @@
 
 ---
 
+## 📊 Metrics
+
+<div align="center">
+
+<img src="metrics.svg" alt="Metrics" width="100%"/>
+
+</div>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SripathCh/SripathCh/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
